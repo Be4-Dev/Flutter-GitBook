@@ -17,5 +17,10 @@
 
 무료 제공 용량
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (2).png>)
 
+
+
+<빠른 메모용>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>firestore 위치 선택</p></figcaption></figure>
